@@ -1,2 +1,2 @@
 # minimization_problems
-A research of Nelder-Mead (amoeba) and sliding descent methods. (algorithms+)
+A research of Nelder-Mead (amoeba) and sliding admission methods. (algorithms+)
